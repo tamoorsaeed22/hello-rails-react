@@ -124,6 +124,12 @@ To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+🔭 Future Features
+  
+ [Displays random famous quotes]
+
+
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
