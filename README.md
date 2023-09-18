@@ -123,6 +123,13 @@ To run the project, execute the following command:
 - Twitter: [@twitterhandle](https://www.linkedin.com/in/tamoor-saeed-58912a233/)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tamoorsaeed/)
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+🔭 Future Features
+  
+ [Displays random famous quotes]
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
